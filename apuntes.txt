@@ -1,0 +1,21 @@
+Doctest
+
+prueba unitaria: aislar una parte del codigo y validar que funcione, cada caja es un modulo del proyecto, se toma por ejemplo el modulo 1 se le hace zoom y se realiza pruebas unitarias mas que todo a los metodos
+
+
+tanto como unnitest como pytest y doctes se realizan pruebas unitarias, que son pruebas a lo mas basico, 
+
+por ejemplo se tiene m1.py, que normalmente contiene clases, se procede a verificar lo que tiene las clases
+estas tienen constructores, variables, funciones o metodos, en este caso se toman los metodos, se le hacen pruebas a cada uno
+
+resumen de unittest es propio de python no se requiere descargar algo a parte, se debe de definir una clase de prueba, tiene varios metodos, la palabra clave es test, Assert (acerto), 
+
+**la higiene del codigo**
+
+
+Pytest
+
+se debe de instalar libreria pip install -U pytest se debe de importar, para verificar que es test se debe de crear test_ o finalizando _test, el modulo tiene que tener nombre test_ tambien, 
+
+
+
